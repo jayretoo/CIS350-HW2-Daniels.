@@ -5,6 +5,7 @@
 # Interest
 + love Walks
 + going to the gym
++ Hanging out with frinds 
 
 ### Background
 I am very famialiar with python and also a little bit of C i am hoping to get really good knowlegdge on Diffrent coding form this class
